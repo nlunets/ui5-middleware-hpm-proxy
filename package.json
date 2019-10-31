@@ -1,0 +1,14 @@
+{
+  "name": "ui5-middleware-hpm-proxy",
+  "version": "1.0.0",
+  "description": "UI5 Tooling middleware using http-proxy-middleware behind the scenes",
+  "repository": "git@github.com:nlunets/ui5-middleware-hpm-proxy.git",
+  "author": "Nicolas Lunet <nicolas.lunet@sap.com>",
+  "main": "lib/proxy.js",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "@ui5/logger": "^1.0.2",
+    "http-proxy-middleware": "^0.20.0"
+  }
+}
